@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<!--
-**MarcZiegler/MarcZiegler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on ...
-Websites
+Websites and Java Homework
 - 🌱 I’m currently learning ...
 React, JS, Firebase
 - 👯 I’m looking to collaborate on ...
@@ -16,5 +13,4 @@ C++
 - 📫 How to reach me: ...
 Discord
 - ⚡ Fun fact: ...
-Bruh
--->
+I was born never finish a project
